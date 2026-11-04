@@ -1,0 +1,19 @@
+# Youness Lijassi (CodeYouness)
+
+> Full-Stack Developer based in Venice, Italy, moving into AI Engineering. Builds PHP/Laravel and JS/TS web apps and LLM-powered applications (RAG, AI agents, FastAPI).
+
+## Profile
+
+- [GitHub profile](https://github.com/CodeYouness): repositories and contribution history
+- [AGENTS.md](https://github.com/CodeYouness/CodeYouness/blob/main/AGENTS.md): full structured fact sheet (skills, notable work, training)
+
+## Focus
+
+- Full-stack web: PHP, Laravel, JavaScript, TypeScript, React, Vue
+- AI / LLM: Python, FastAPI, LangChain, LangGraph, RAG, Pydantic
+- Runs 3 production web portals; shipped a customer voting portal end-to-end
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/younesslijassi)
+- Email: ylijassi@gmail.com

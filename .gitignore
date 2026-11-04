@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.DS_Store
+source-photo.png
+source-prepped.png
+.archive.tgz
+.update.tgz

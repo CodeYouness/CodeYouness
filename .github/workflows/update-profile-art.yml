@@ -1,0 +1,56 @@
+name: Update profile art
+
+"on":
+  schedule:
+    - cron: "17 6 * * *"   # ~06:17 UTC every day
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths-ignore:
+      - "*.svg"
+      - "data/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-art
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # fetch + render scripts use only the Python standard library
+      - name: Contribution heatmap
+        run: |
+          python scripts/fetch_contributions.py ${{ github.repository_owner }}
+          python scripts/render_heatmap_svg.py
+
+      - name: Languages + recent activity
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # optional read-only fine-grained PAT (Settings > Secrets > Actions): adds private repos, anonymised
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+        run: |
+          python scripts/fetch_github_data.py ${{ github.repository_owner }}
+          python scripts/render_github_svg.py
+
+      - name: Snake eating the contribution graph
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            snake/snake-dark.svg?palette=github-dark&color_snake=#39d353
+            snake/snake-light.svg?palette=github-light&color_snake=#2da44e
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh profile art [skip ci]"
+          file_pattern: "data/*.json contrib-heatmap.svg languages.svg activity.svg snake/*.svg"

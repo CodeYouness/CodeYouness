@@ -1,0 +1,7 @@
+# Only needed locally when you change the portrait photo.
+# The daily workflow (fetch + heatmap) uses the Python standard library only.
+pillow
+numpy
+opencv-python-headless
+# optional: better background removal on busy photos
+# rembg
