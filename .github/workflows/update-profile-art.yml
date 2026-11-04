@@ -21,9 +21,9 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.11"
 
@@ -50,7 +50,7 @@ jobs:
             snake/snake-dark.svg?palette=github-dark&color_snake=#39d353
             snake/snake-light.svg?palette=github-light&color_snake=#2da44e
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "chore: refresh profile art [skip ci]"
           file_pattern: "data/*.json contrib-heatmap.svg languages.svg activity.svg snake/*.svg"
