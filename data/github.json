@@ -1,0 +1,88 @@
+{
+ "user": "CodeYouness",
+ "generated": "2026-11-04",
+ "repos_counted": 67,
+ "includes_private": false,
+ "languages": [
+  {
+   "name": "JavaScript",
+   "pct": 47.3
+  },
+  {
+   "name": "PHP",
+   "pct": 28.6
+  },
+  {
+   "name": "Blade",
+   "pct": 10.2
+  },
+  {
+   "name": "HTML",
+   "pct": 7.6
+  },
+  {
+   "name": "Vue",
+   "pct": 3.4
+  },
+  {
+   "name": "CSS",
+   "pct": 2.6
+  },
+  {
+   "name": "SCSS",
+   "pct": 0.3
+  },
+  {
+   "name": "Shell",
+   "pct": 0.2
+  },
+  {
+   "name": "Hack",
+   "pct": 0.0
+  }
+ ],
+ "activity": [
+  {
+   "repo": "PersonalOS",
+   "private": false,
+   "pushed_at": "2026-10-18T21:09:46Z",
+   "language": "JavaScript",
+   "message": "chore(repo): drop iCloud workarounds (#211)"
+  },
+  {
+   "repo": "PHP-training",
+   "private": false,
+   "pushed_at": "2024-11-18T13:44:15Z",
+   "language": "PHP",
+   "message": "minority fix"
+  },
+  {
+   "repo": "php-strong-password-generator",
+   "private": false,
+   "pushed_at": "2024-11-13T09:35:57Z",
+   "language": "PHP",
+   "message": "minority fix"
+  },
+  {
+   "repo": "php-hotel",
+   "private": false,
+   "pushed_at": "2024-11-05T09:17:02Z",
+   "language": "PHP",
+   "message": "minority fix to style"
+  },
+  {
+   "repo": "kata-strong-password-validator",
+   "private": false,
+   "pushed_at": "2024-10-18T15:50:59Z",
+   "language": "HTML",
+   "message": "added function to check if length of input is >9"
+  },
+  {
+   "repo": "proj-html-vuejs",
+   "private": false,
+   "pushed_at": "2024-10-16T13:32:01Z",
+   "language": "Vue",
+   "message": "Merge branch 'main' of https://github.com/CodeYouness/proj-html-vuejs"
+  }
+ ]
+}
