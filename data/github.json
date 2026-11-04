@@ -1,40 +1,48 @@
 {
  "user": "CodeYouness",
  "generated": "2026-11-04",
- "repos_counted": 67,
- "includes_private": false,
+ "repos_counted": 69,
+ "includes_private": true,
  "languages": [
   {
    "name": "JavaScript",
-   "pct": 47.3
+   "pct": 28.7
+  },
+  {
+   "name": "Python",
+   "pct": 24.4
   },
   {
    "name": "PHP",
-   "pct": 28.6
-  },
-  {
-   "name": "Blade",
-   "pct": 10.2
+   "pct": 17.4
   },
   {
    "name": "HTML",
-   "pct": 7.6
+   "pct": 13.5
+  },
+  {
+   "name": "Blade",
+   "pct": 6.2
+  },
+  {
+   "name": "Jupyter Notebook",
+   "pct": 6.0
   },
   {
    "name": "Vue",
-   "pct": 3.4
+   "pct": 2.0
   },
   {
    "name": "CSS",
-   "pct": 2.6
+   "pct": 1.6
   },
   {
    "name": "SCSS",
-   "pct": 0.3
+   "pct": 0.2
   },
   {
    "name": "Shell",
-   "pct": 0.2
+   "pct": 0.1
   },
   {
    "name": "Hack",
@@ -42,6 +50,20 @@
   }
  ],
  "activity": [
+  {
+   "repo": null,
+   "private": true,
+   "pushed_at": "2026-11-04T20:47:59Z",
+   "language": null,
+   "message": ""
+  },
+  {
+   "repo": null,
+   "private": true,
+   "pushed_at": "2026-10-31T09:00:36Z",
+   "language": "Python",
+   "message": ""
+  },
   {
    "repo": "PersonalOS",
    "private": false,
@@ -69,20 +91,6 @@
    "pushed_at": "2024-11-05T09:17:02Z",
    "language": "PHP",
    "message": "minority fix to style"
-  },
-  {
-   "repo": "kata-strong-password-validator",
-   "private": false,
-   "pushed_at": "2024-10-18T15:50:59Z",
-   "language": "HTML",
-   "message": "added function to check if length of input is >9"
-  },
-  {
-   "repo": "proj-html-vuejs",
-   "private": false,
-   "pushed_at": "2024-10-16T13:32:01Z",
-   "language": "Vue",
-   "message": "Merge branch 'main' of https://github.com/CodeYouness/proj-html-vuejs"
   }
  ]
 }
