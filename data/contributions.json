@@ -1,17 +1,17 @@
 {
  "user": "CodeYouness",
- "generated": "2026-11-07",
+ "generated": "2026-11-08",
  "stats": {
-  "total": 2584,
-  "current_streak": 68,
-  "longest_streak": 68,
+  "total": 2572,
+  "current_streak": 69,
+  "longest_streak": 69,
   "best_day": {
    "date": "2026-10-12",
    "count": 37
   },
-  "active_days": 348,
+  "active_days": 345,
   "monthly": {
-   "2025-11": 98,
+   "2025-11": 81,
    "2025-12": 120,
    "2026-01": 88,
    "2026-02": 69,
@@ -23,45 +23,10 @@
    "2026-08": 248,
    "2026-09": 271,
    "2026-10": 446,
-   "2026-11": 29
+   "2026-11": 34
   }
  },
  "days": [
-  {
-   "date": "2025-11-02",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-03",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-04",
-   "level": 1,
-   "count": 5
-  },
-  {
-   "date": "2025-11-05",
-   "level": 1,
-   "count": 5
-  },
-  {
-   "date": "2025-11-06",
-   "level": 1,
-   "count": 3
-  },
-  {
-   "date": "2025-11-07",
-   "level": 1,
-   "count": 4
-  },
-  {
-   "date": "2025-11-08",
-   "level": 0,
-   "count": 0
-  },
   {
    "date": "2025-11-09",
    "level": 1,
@@ -1879,6 +1844,11 @@
   },
   {
    "date": "2026-11-07",
+   "level": 1,
+   "count": 5
+  },
+  {
+   "date": "2026-11-08",
    "level": 0,
    "count": 0
   }

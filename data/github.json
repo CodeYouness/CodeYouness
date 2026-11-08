@@ -1,7 +1,7 @@
 {
  "user": "CodeYouness",
- "generated": "2026-11-07",
- "repos_counted": 69,
+ "generated": "2026-11-08",
+ "repos_counted": 70,
  "includes_private": true,
  "languages": [
   {
@@ -51,6 +51,13 @@
  ],
  "activity": [
   {
+   "repo": "spesometro",
+   "private": false,
+   "pushed_at": "2026-11-07T22:41:38Z",
+   "language": null,
+   "message": "GLOSSARY: ripristina il glossario completo della sessione precedente"
+  },
+  {
    "repo": null,
    "private": true,
    "pushed_at": "2026-11-04T20:47:59Z",
@@ -84,13 +91,6 @@
    "pushed_at": "2024-11-13T09:35:57Z",
    "language": "PHP",
    "message": "minority fix"
-  },
-  {
-   "repo": "php-hotel",
-   "private": false,
-   "pushed_at": "2024-11-05T09:17:02Z",
-   "language": "PHP",
-   "message": "minority fix to style"
   }
  ]
 }
