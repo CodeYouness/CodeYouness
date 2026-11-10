@@ -1,6 +1,6 @@
 {
  "user": "CodeYouness",
- "generated": "2026-11-08",
+ "generated": "2026-11-10",
  "repos_counted": 70,
  "includes_private": true,
  "languages": [
@@ -51,11 +51,18 @@
  ],
  "activity": [
   {
+   "repo": "PersonalOS",
+   "private": false,
+   "pushed_at": "2026-11-09T23:21:40Z",
+   "language": "JavaScript",
+   "message": "chore(repo): drop iCloud workarounds (#211)"
+  },
+  {
    "repo": "spesometro",
    "private": false,
-   "pushed_at": "2026-11-07T22:41:38Z",
+   "pushed_at": "2026-11-08T16:11:46Z",
    "language": null,
-   "message": "GLOSSARY: ripristina il glossario completo della sessione precedente"
+   "message": "Permessi Claude Code, MCP, ADR 0004 niente backfill"
   },
   {
    "repo": null,
@@ -70,13 +77,6 @@
    "pushed_at": "2026-10-31T09:00:36Z",
    "language": "Python",
    "message": ""
-  },
-  {
-   "repo": "PersonalOS",
-   "private": false,
-   "pushed_at": "2026-10-18T21:09:46Z",
-   "language": "JavaScript",
-   "message": "chore(repo): drop iCloud workarounds (#211)"
   },
   {
    "repo": "PHP-training",
