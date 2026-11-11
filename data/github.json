@@ -1,40 +1,40 @@
 {
  "user": "CodeYouness",
- "generated": "2026-11-10",
+ "generated": "2026-11-11",
  "repos_counted": 70,
  "includes_private": true,
  "languages": [
   {
    "name": "JavaScript",
-   "pct": 28.7
+   "pct": 32.1
   },
   {
    "name": "Python",
-   "pct": 24.4
+   "pct": 23.2
   },
   {
    "name": "PHP",
-   "pct": 17.4
+   "pct": 16.5
   },
   {
    "name": "HTML",
-   "pct": 13.5
+   "pct": 12.9
   },
   {
    "name": "Blade",
-   "pct": 6.2
+   "pct": 5.9
   },
   {
    "name": "Jupyter Notebook",
-   "pct": 6.0
+   "pct": 5.8
   },
   {
    "name": "Vue",
-   "pct": 2.0
+   "pct": 1.9
   },
   {
    "name": "CSS",
-   "pct": 1.6
+   "pct": 1.5
   },
   {
    "name": "SCSS",
@@ -53,9 +53,9 @@
   {
    "repo": "PersonalOS",
    "private": false,
-   "pushed_at": "2026-11-09T23:21:40Z",
+   "pushed_at": "2026-11-10T16:28:33Z",
    "language": "JavaScript",
-   "message": "chore(repo): drop iCloud workarounds (#211)"
+   "message": "feat(capture): capture from the phone, without going public (spec #221) (#231)"
   },
   {
    "repo": "spesometro",
