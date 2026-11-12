@@ -1,32 +1,32 @@
 {
  "user": "CodeYouness",
- "generated": "2026-11-11",
+ "generated": "2026-11-12",
  "repos_counted": 70,
  "includes_private": true,
  "languages": [
   {
    "name": "JavaScript",
-   "pct": 32.1
+   "pct": 33.5
   },
   {
    "name": "Python",
-   "pct": 23.2
+   "pct": 22.6
   },
   {
    "name": "PHP",
-   "pct": 16.5
+   "pct": 16.1
   },
   {
    "name": "HTML",
-   "pct": 12.9
+   "pct": 12.7
   },
   {
    "name": "Blade",
-   "pct": 5.9
+   "pct": 5.7
   },
   {
    "name": "Jupyter Notebook",
-   "pct": 5.8
+   "pct": 5.6
   },
   {
    "name": "Vue",
@@ -53,9 +53,9 @@
   {
    "repo": "PersonalOS",
    "private": false,
-   "pushed_at": "2026-11-10T16:28:33Z",
+   "pushed_at": "2026-11-11T22:51:39Z",
    "language": "JavaScript",
-   "message": "feat(capture): capture from the phone, without going public (spec #221) (#231)"
+   "message": "feat(review): close the loop -- the day's close and the weekly review (spec #232) (#244)"
   },
   {
    "repo": "spesometro",
