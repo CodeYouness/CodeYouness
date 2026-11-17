@@ -1,44 +1,44 @@
 {
  "user": "CodeYouness",
- "generated": "2026-11-16",
+ "generated": "2026-11-17",
  "repos_counted": 70,
  "includes_private": true,
  "languages": [
   {
    "name": "JavaScript",
-   "pct": 37.5
+   "pct": 42.0
   },
   {
    "name": "Python",
-   "pct": 21.2
+   "pct": 19.6
   },
   {
    "name": "PHP",
-   "pct": 15.1
+   "pct": 14.0
   },
   {
    "name": "HTML",
-   "pct": 12.0
+   "pct": 11.0
   },
   {
    "name": "Blade",
-   "pct": 5.4
+   "pct": 5.0
   },
   {
    "name": "Jupyter Notebook",
-   "pct": 5.3
+   "pct": 4.9
   },
   {
    "name": "Vue",
-   "pct": 1.8
+   "pct": 1.6
   },
   {
    "name": "CSS",
-   "pct": 1.5
+   "pct": 1.6
   },
   {
    "name": "SCSS",
-   "pct": 0.2
+   "pct": 0.1
   },
   {
    "name": "Shell",
@@ -53,9 +53,9 @@
   {
    "repo": "PersonalOS",
    "private": false,
-   "pushed_at": "2026-11-13T15:25:42Z",
+   "pushed_at": "2026-11-17T15:49:22Z",
    "language": "JavaScript",
-   "message": "feat(capture): save the capture before it is classified (#255)"
+   "message": "feat(finances): the net worth line replaces the History card (#266)"
   },
   {
    "repo": "spesometro",
