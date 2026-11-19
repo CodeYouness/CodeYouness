@@ -1,24 +1,24 @@
 {
  "user": "CodeYouness",
- "generated": "2026-11-18",
+ "generated": "2026-11-19",
  "repos_counted": 70,
  "includes_private": true,
  "languages": [
   {
    "name": "JavaScript",
-   "pct": 44.6
+   "pct": 45.2
   },
   {
    "name": "Python",
-   "pct": 18.6
+   "pct": 18.4
   },
   {
    "name": "PHP",
-   "pct": 13.3
+   "pct": 13.1
   },
   {
    "name": "HTML",
-   "pct": 10.5
+   "pct": 10.4
   },
   {
    "name": "Blade",
@@ -34,7 +34,7 @@
   },
   {
    "name": "Vue",
-   "pct": 1.6
+   "pct": 1.5
   },
   {
    "name": "SCSS",
@@ -53,9 +53,9 @@
   {
    "repo": "PersonalOS",
    "private": false,
-   "pushed_at": "2026-11-18T10:05:16Z",
+   "pushed_at": "2026-11-19T13:43:07Z",
    "language": "JavaScript",
-   "message": "feat(finances): one toolbar for Income & spending, and a tighter legend (#277)"
+   "message": "feat(finances): a refund is paired with its purchase (#278)"
   },
   {
    "repo": "spesometro",
