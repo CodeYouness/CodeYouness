@@ -1,32 +1,32 @@
 {
  "user": "CodeYouness",
- "generated": "2026-11-19",
+ "generated": "2026-11-20",
  "repos_counted": 70,
  "includes_private": true,
  "languages": [
   {
    "name": "JavaScript",
-   "pct": 45.2
+   "pct": 45.8
   },
   {
    "name": "Python",
-   "pct": 18.4
+   "pct": 18.9
   },
   {
    "name": "PHP",
-   "pct": 13.1
+   "pct": 12.7
   },
   {
    "name": "HTML",
-   "pct": 10.4
+   "pct": 10.0
   },
   {
    "name": "Blade",
-   "pct": 4.7
+   "pct": 4.5
   },
   {
    "name": "Jupyter Notebook",
-   "pct": 4.6
+   "pct": 4.4
   },
   {
    "name": "CSS",
@@ -45,24 +45,36 @@
    "pct": 0.1
   },
   {
+   "name": "Dockerfile",
+   "pct": 0.0
+  },
+  {
+   "name": "TypeScript",
+   "pct": 0.0
+  },
+  {
+   "name": "Mako",
+   "pct": 0.0
+  },
+  {
    "name": "Hack",
    "pct": 0.0
   }
  ],
  "activity": [
   {
-   "repo": "PersonalOS",
-   "private": false,
-   "pushed_at": "2026-11-19T13:43:07Z",
-   "language": "JavaScript",
-   "message": "feat(finances): a refund is paired with its purchase (#278)"
-  },
-  {
    "repo": "spesometro",
    "private": false,
-   "pushed_at": "2026-11-08T16:11:46Z",
-   "language": null,
-   "message": "Permessi Claude Code, MCP, ADR 0004 niente backfill"
+   "pushed_at": "2026-11-19T22:25:27Z",
+   "language": "Python",
+   "message": "Merge pull request #1 from CodeYouness/schema-dati"
+  },
+  {
+   "repo": "PersonalOS",
+   "private": false,
+   "pushed_at": "2026-11-19T21:57:15Z",
+   "language": "JavaScript",
+   "message": "feat(finances): months fetched from the banks' pages, converted by a script (#284)"
   },
   {
    "repo": null,
