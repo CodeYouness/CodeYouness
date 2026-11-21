@@ -1,40 +1,44 @@
 {
  "user": "CodeYouness",
- "generated": "2026-11-20",
+ "generated": "2026-11-21",
  "repos_counted": 70,
  "includes_private": true,
  "languages": [
   {
    "name": "JavaScript",
-   "pct": 45.8
+   "pct": 40.0
   },
   {
    "name": "Python",
-   "pct": 18.9
+   "pct": 27.4
   },
   {
    "name": "PHP",
-   "pct": 12.7
+   "pct": 10.7
   },
   {
    "name": "HTML",
-   "pct": 10.0
+   "pct": 10.7
   },
   {
    "name": "Blade",
-   "pct": 4.5
+   "pct": 3.8
   },
   {
    "name": "Jupyter Notebook",
-   "pct": 4.4
+   "pct": 3.7
   },
   {
    "name": "CSS",
-   "pct": 1.9
+   "pct": 1.8
   },
   {
    "name": "Vue",
-   "pct": 1.5
+   "pct": 1.3
+  },
+  {
+   "name": "TypeScript",
+   "pct": 0.4
   },
   {
    "name": "SCSS",
@@ -49,10 +53,6 @@
    "pct": 0.0
   },
   {
-   "name": "TypeScript",
-   "pct": 0.0
-  },
-  {
    "name": "Mako",
    "pct": 0.0
   },
@@ -63,6 +63,20 @@
  ],
  "activity": [
   {
+   "repo": "PersonalOS",
+   "private": false,
+   "pushed_at": "2026-11-21T13:29:01Z",
+   "language": "JavaScript",
+   "message": "feat: schedules, run log, scheduled syncs, backup, live updates (stage 3, part 1) (#294)"
+  },
+  {
+   "repo": null,
+   "private": true,
+   "pushed_at": "2026-11-21T10:54:50Z",
+   "language": "Python",
+   "message": ""
+  },
+  {
    "repo": "spesometro",
    "private": false,
    "pushed_at": "2026-11-19T22:25:27Z",
@@ -70,24 +84,10 @@
    "message": "Merge pull request #1 from CodeYouness/schema-dati"
   },
   {
-   "repo": "PersonalOS",
-   "private": false,
-   "pushed_at": "2026-11-19T21:57:15Z",
-   "language": "JavaScript",
-   "message": "feat(finances): months fetched from the banks' pages, converted by a script (#284)"
-  },
-  {
    "repo": null,
    "private": true,
    "pushed_at": "2026-11-04T20:47:59Z",
    "language": null,
-   "message": ""
-  },
-  {
-   "repo": null,
-   "private": true,
-   "pushed_at": "2026-10-31T09:00:36Z",
-   "language": "Python",
    "message": ""
   },
   {
