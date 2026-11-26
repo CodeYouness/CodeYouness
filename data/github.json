@@ -1,28 +1,28 @@
 {
  "user": "CodeYouness",
- "generated": "2026-11-25",
+ "generated": "2026-11-26",
  "repos_counted": 70,
  "includes_private": true,
  "languages": [
   {
    "name": "JavaScript",
-   "pct": 40.1
+   "pct": 39.5
   },
   {
    "name": "Python",
-   "pct": 27.3
+   "pct": 28.4
   },
   {
    "name": "PHP",
-   "pct": 10.7
+   "pct": 10.5
   },
   {
    "name": "HTML",
-   "pct": 10.7
+   "pct": 10.5
   },
   {
    "name": "Blade",
-   "pct": 3.8
+   "pct": 3.7
   },
   {
    "name": "Jupyter Notebook",
@@ -30,11 +30,11 @@
   },
   {
    "name": "CSS",
-   "pct": 1.8
+   "pct": 1.7
   },
   {
    "name": "Vue",
-   "pct": 1.3
+   "pct": 1.2
   },
   {
    "name": "TypeScript",
@@ -65,9 +65,9 @@
   {
    "repo": "spesometro",
    "private": false,
-   "pushed_at": "2026-11-25T17:04:28Z",
+   "pushed_at": "2026-11-25T23:20:41Z",
    "language": "Python",
-   "message": "Merge pull request #1 from CodeYouness/schema-dati"
+   "message": "Merge pull request #4 from CodeYouness/minimizzazione"
   },
   {
    "repo": "PersonalOS",
