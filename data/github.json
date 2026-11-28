@@ -1,6 +1,6 @@
 {
  "user": "CodeYouness",
- "generated": "2026-11-27",
+ "generated": "2026-11-28",
  "repos_counted": 71,
  "includes_private": true,
  "languages": [
@@ -63,6 +63,20 @@
  ],
  "activity": [
   {
+   "repo": null,
+   "private": true,
+   "pushed_at": "2026-11-28T11:31:07Z",
+   "language": "Python",
+   "message": ""
+  },
+  {
+   "repo": null,
+   "private": true,
+   "pushed_at": "2026-11-28T11:27:11Z",
+   "language": "Python",
+   "message": ""
+  },
+  {
    "repo": "PersonalOS",
    "private": false,
    "pushed_at": "2026-11-27T13:39:56Z",
@@ -70,25 +84,11 @@
    "message": "fix(telegram): the bot speaks Italian and says what it read only when it found nothing (#305)"
   },
   {
-   "repo": null,
-   "private": true,
-   "pushed_at": "2026-11-26T19:55:58Z",
-   "language": "Python",
-   "message": ""
-  },
-  {
    "repo": "spesometro",
    "private": false,
    "pushed_at": "2026-11-25T23:20:41Z",
    "language": "Python",
    "message": "Merge pull request #4 from CodeYouness/minimizzazione"
-  },
-  {
-   "repo": null,
-   "private": true,
-   "pushed_at": "2026-11-21T10:54:50Z",
-   "language": "Python",
-   "message": ""
   },
   {
    "repo": null,
